@@ -1,0 +1,116 @@
+body {
+    background-color: rgb(66, 97, 96);
+    padding: 0;
+    ;
+    background-color: rgb(191, 77, 219);
+}
+
+
+head p {
+    background-color: pink;
+    color: aquamarine;
+    text-align: center;
+    align-items: center;
+
+
+}
+
+.link1 {
+    align-items: center;
+    text-align: center;
+    display: grid;
+    flex-direction: row;
+    text-align: right;
+
+
+
+}
+
+nav h1 {
+    text-align: flex;
+    color: black
+}
+
+.Contatos img {
+    width: 10%;
+    border: 2px;
+
+
+
+
+
+}
+
+#texto {
+    color: rgb(11, 9, 11);
+}
+
+.link1 h1 {
+    background-color: rgb(228, 60, 178);
+    text-align: center;
+}
+
+
+
+
+.gif {
+    height: 80vh;
+    width: 100%;
+    background-image: url("/img/rosa2.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.fotos {
+    width: 20px;
+}
+
+
+
+.link5 {
+    display: flex;
+    float: right;
+    margin: 2px;
+
+}
+
+
+
+.imagens img {
+    width: 10%;
+    border: solid;
+    align-items: center;
+   display: inline;
+   margin: 30px;
+background-color: beige;
+
+}
+.texto p{
+ color: rgb(13, 3, 3);
+
+}
+
+.Contatos img{
+    display: inline;
+    margin: 30px;
+    border: solid;
+    background-color: beige;
+    justify-content:center ;
+
+
+}
+.imagens h3{
+    text-align: center;
+
+}
+
+.Contatos h2{
+    
+    justify-content: center;
+    align-items: center;
+}
+
+
+
